@@ -1,0 +1,36 @@
+body {
+	padding: 0;
+	margin: 0 10px;
+	background-image: url("../Imagenes/taberna.jpg");
+	background-size: cover;
+	height: 100vh;
+}
+table {
+	width: 100%;
+}
+td {
+	width: 33%;
+	text-align: center;
+}
+.txtt {
+	font-family: "Ink Free";
+	font-size: 50px;
+	font-weight: bold;
+}
+.bienv {
+	text-align: center;
+	position: relative;
+}
+.textbien {
+	font-size: 85px;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-family: "Ink Free";
+	font-weight: bold;
+	line-height: 70px;
+}
+.textbien2 {
+	font-size: 40px;
+}
